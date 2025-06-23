@@ -84,6 +84,7 @@ button{
     font-style:italic;
     color:#1F2937;
     justify-content: center;
+    border:2px solid rgb(245, 240, 240);
     
 }
 span2{
